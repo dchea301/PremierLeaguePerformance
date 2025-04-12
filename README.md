@@ -1,4 +1,4 @@
-Premier League Performance Project
+# Premier League Performance Project
 
 This Project was created to demonstrate a deep analysis of the English Premier League Soccer players' performances. 
 This Python notebook utilizes Pandas and its other libraries to show step-by-step how a person can take a dataset and manipulate it into analyzable graphs.
